@@ -9,3 +9,4 @@ A thing made in godot that converts the qwerty layout to the colemak layout
 - favicon and title
 - layout changes
 - minigames
+- a method to spoof the capslock backspace
